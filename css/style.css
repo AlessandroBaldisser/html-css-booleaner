@@ -50,10 +50,16 @@ header div{
     padding-top: 10px;
 }
 
+table{
+    width: 100%;
+}
+
 .table-header{
     background-color: cornflowerblue;
     border-color: aliceblue;
-    border: x, solid;
     color: white;
 }
 
+.odd-raws{
+    background-color: lightgray;
+}
